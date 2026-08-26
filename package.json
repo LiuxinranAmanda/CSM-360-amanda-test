@@ -1,0 +1,19 @@
+{
+  "name": "sparkx-csm-portal",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "docx": "^9.7.1",
+    "jose": "^5.9.6",
+    "next": "14.2.35",
+    "pg": "^8.13.1",
+    "qrcode": "^1.5.4",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}
